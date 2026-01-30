@@ -91,7 +91,7 @@ I work with **HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS**, and I’m cu
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="[./output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Pooja23494/Pooja23494/output/github-contribution-grid-snake.svg)" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Pooja23494/Pooja23494/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
