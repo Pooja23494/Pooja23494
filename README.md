@@ -72,19 +72,13 @@ I work with **HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS**, and I’m cu
 
 ---
 
-## 📊 GitHub Stats & Streak
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Pooja23494&theme=dark&hide_border=false&show_icons=true&cache_seconds=1800)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pooja23494&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja23494&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pooja23494&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pooja23494&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja23494&layout=compact&theme=radical"/>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
