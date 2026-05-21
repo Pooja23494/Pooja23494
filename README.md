@@ -9,7 +9,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Tailwind+CSS+%7C+Bootstrap;Learning+React.js"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Tailwind+CSS+%7C+Bootstrap;React.js+Developer"
     alt="Typing SVG"
   />
 </p>
@@ -26,11 +26,12 @@
 ## 👩‍💻 About Me
 
 I’m a **Front-End Developer** who loves building **responsive, clean, and modern user interfaces**.  
-I work with **HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS**, and I’m currently learning **React.js** to build dynamic web apps.
+I work with HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and React.js to build responsive and modern web applications.
 
-🎓 Front-End Development Student  
+🎓 Completed Master in Front-End Development  
 🚀 UI focused & performance minded  
-🌱 Always learning new things  
+🌱 Always learning new things 
+💡 Passionate about modern UI/UX and responsive web development
 
 ---
 
@@ -43,12 +44,13 @@ I work with **HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS**, and I’m cu
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
 
-### 🎨 Frameworks & Tools
+### ⚛️ Frameworks & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 </p>
 
 ---
